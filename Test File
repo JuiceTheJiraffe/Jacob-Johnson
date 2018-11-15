@@ -1,4 +1,5 @@
 #this is a test file
+#this code will notify you when cloudtrail is disabled
 import json
 import boto3
 import sys
