@@ -1,4 +1,3 @@
-#This script tells you how to make crepes
 groceries = ['Eggs', 'Butter', 'Milk', 'Flour'] 
 #Defines the the list of variables in groceries
 howmuch = ['= 2', '= 2 TBSP', '= 1 and a third cups', '= 1 cup']
@@ -8,3 +7,4 @@ for g in groceries:
         while groceries:
             while howmuch:
                 print(groceries.pop() + ' ' + howmuch.pop())
+#This is a change for a commit
