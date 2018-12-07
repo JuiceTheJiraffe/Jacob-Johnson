@@ -1,0 +1,6 @@
+Hello in here contains 3 files.
+The first file is explaining the differences between CloudWatch Events and Metric Filters on CloudWatch Log Groups.
+The second file displays how I setup a CloudWatch Event that emails me when someone turns off CloudTrail and re enables the trail using lambda.
+A note on that file, if you want to set it up the code is located in a different repository called TSTC-Intro-To-Automation. You can find that repository in my account.
+The third file shows how to setup a metric filter based on the same thing. This will trigger an alarm and it will email you when someone disables a CloudTrail.
+The reason I made both was to compare time and email content as it is important to know those differnces for the exam and for real life when using both of these.
