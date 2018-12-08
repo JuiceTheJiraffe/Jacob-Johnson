@@ -1,0 +1,5 @@
+There are 3 files in here.
+The first file is a document that contains a brief introduction to probably every logging and monioring service that may come up on the exam.
+This file also includes questions and explainations to why you should choose certain answers.
+The second file is documentaions on DNS Query Logging and how to set it up.
+The last file is documentation on how to setup S3 Access Logging.
