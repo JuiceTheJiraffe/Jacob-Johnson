@@ -1,0 +1,4 @@
+There are 2 files located here that should prove to be helpful on the exam.
+The first file talks about AWS Organizations and how it may come up on the exam. It also shows you how to setup organizations step by step
+The second file is a document comparing all the different types of policies you can find in AWS.
+ACloudGuru only mentions 2, resources policies and identity policies.
