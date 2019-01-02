@@ -1,7 +1,7 @@
 # Welcome
 This repository is where I will be posting notes, review questions, and self made labs based on the certification I am studying. 
 I like to share with the ACloudGuru community my notes from my AWS certifications.
-Currently I am studying for the ITIL Foundational certification and the AWS DevOps Proffesional Exam.
+Currently I am studying for the AWS Solutions Architect Proffesional Exam. As I just got a job my studying for this Cert will be a slow process. I plan to get it by the end of the year and I will not rush this very difficult Cert.
 As well as notes I have powerpoints based on presentations I have done for the AWS user group in Waco, Texas located in the presentations directory.
 Feel free to browse around.
 If you are curious about my coding ability, all my code will be located in the TSTC Automation repository as any code may prove helpful for the developement of that class.
