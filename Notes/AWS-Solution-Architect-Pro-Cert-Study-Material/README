@@ -1,3 +1,16 @@
+Just a note: In the begining of June I found out the main guy on my product I work on at work decided to leave. Even though 
+I did not like the idea I needed to drop the CSA-Pro as the past month since he left has been crazy hard with hours, etc...
+I have decided to not pick it back up as I do not feel there is a need for me to be a master at AWS and I feel like it would be
+a better career decisions to branch out my knowledge to not be as 1 dimentional. The product I work on is in GCP and I am going for that
+Associate exam as I feel like it will be less stressful than the CSA-Pro. I than want to branch out and learn more DevOps tech as I would like
+to be a DevOps engineer. Currently my product uses a lot of Salt stack, but I thought it would be nice to learn chef.
+Just a little update as I originally came here to take down this repo, but then saw how many people follow it now. I also added some notes that
+I had taken, but forgot to add.
+
+I will be creating a new branch for the GCP Cloud Engineer cert and I will try to set aside 2 hours a week to work on it :)
+
+
+
 I just finished all the videos in ACloudGuru. I will briefly be studying to retake the AWS Associate Architect exam for practice reasons among other things
 I expect to take it the weekend of March 22nd. After that I will quickly rewatch the videos and type out my notes. (This is always quicker then my hand written notes)
 If you are following my Cert journey I would like to shed light into my process.
@@ -11,3 +24,4 @@ I will take this section by section starting with ACloudGuru. Section 2 is based
 After that it will be a slowed process. I will go through ACloudGuru, LinuxAcademy, WhizLabs, and other content suggested by instructors.
 By the end of this year this part of my GitHub will be filled. I hope I can help all of you pass this cert.
 CURRENTLY NOT READING THE WHITEPAPERS FOR THIS COURSE. For a few reasons, but just know that only the Data Stores section has review questions on whitepapers.
+I
